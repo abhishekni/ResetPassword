@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FirminIQ_Test</string>
+    <string name="email">Email</string>
+    <string name="submit">Submit</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="password">Password</string>
+    <string name="screen_title">Screen Title</string>
+    <string name="email_field">Email Field can not be blank</string>
+    <string name="password_field">Password Field can not be blank</string>
+    <string name="confirm_password_field">Confirm Password Field can not be blank</string>
+    <string name="email_format">Please enter the correct Email format</string>
+    <string name="diff_password"><![CDATA[Password & Confirm Password cant be different]]></string>
+    <string name="welcome">Welcome !!!</string>
+    <string name="message">You have successfully entered the Email</string>
+    <string name="ok">OK</string>
+</resources>
